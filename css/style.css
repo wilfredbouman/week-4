@@ -1,0 +1,23 @@
+body{
+	background-color: grey;
+}
+
+
+h1{
+	font-size: 60px;
+}
+
+h2 {
+	color:green;
+	font-size: 30px;
+	background-color: red;
+}
+
+img{
+	float: right;
+}
+
+/*img.right{
+	float: right;
+}*/
+
